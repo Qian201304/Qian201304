@@ -29,7 +29,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 
 ---
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Schwi201304/Schwi201304/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Schwi201304/Schwi201304/main/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ---
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Schwi201304&theme=xcode" /> </div>
